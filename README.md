@@ -9,4 +9,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ... I love cats
 - email: alinemay364@gmail.com
-  ![doguinho](https://tenor.com/p8MW0UCimXF.gif)
+
+
+   ![doguinho](https://tenor.com/p8MW0UCimXF.gif)
