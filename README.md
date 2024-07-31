@@ -10,4 +10,5 @@
 - ⚡ Fun fact: ... I love cats
 - email: alinemay364@gmail.com
 
-! [doguinho] (https://media1.tenor.com/m/V6y0G_YfqBgAAAAd/goofy-dog-smiling-goofy.gif)
+![doguinho](<img src="https://media1.tenor.com/m/V6y0G_YfqBgAAAAd/goofy-dog-smiling-goofy.gif" alt="Goofy Dog Smiling Smile GIF"/>![image](https://github.com/user-attachments/assets/f97e14f8-0557-44b3-9dc5-cb9ae7e7c4d0)
+)
