@@ -11,4 +11,5 @@
 - email: alinemay364@gmail.com
 
 
-   ![doguinho](https://tenor.com/p8MW0UCimXF.gif)
+   ![doguinho](<img src="https://media1.tenor.com/m/V6y0G_YfqBgAAAAd/goofy-dog-smiling-goofy.gif" alt="Goofy Dog Smiling Smile GIF"/>![Uploading image.png…]()
+)
